@@ -17,10 +17,12 @@ Version beta stable
 
 - Double-cliquez sur le fichier C:\Avatar3.0\Avatar.exe
 
-
 **Importante note:**<br>
 Pour une compatibilité avec cette nouvelle version, si vous utilisez les plugins [Client Android](https://github.com/Spikharpax/Avatar-Plugin-Android) et [Google-Assistant](https://github.com/Spikharpax/Avatar-Plugin-Google-Assistant), téléchargez les nouvelles versions.
 
+
+## Accès aux plugins
+Le répertoire des plugins a changé pour C:\Avatar3.0\resources\core\plugins
 
 
 ## Auteur
