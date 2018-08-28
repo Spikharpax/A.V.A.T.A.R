@@ -1,7 +1,7 @@
 AVATAR SERVEUR 3.0
 ==================
 
-Avatar Serveur 3.0 beta 3
+Avatar Serveur 3.0 beta 4
 
 Version beta stable
 
@@ -9,9 +9,9 @@ Version beta stable
 ## Installation
 - Téléchargez le projet
 - Créez un répertoire C:\Avatar3.0
-- Copiez le fichier Avatar_3.0_Beta.exe dans ce répertoire
-- Double-cliquez sur le fichier Avatar_3.0_Beta.exe pour le dézipper.
-
+- Copiez les fichiers Avatar.7z.001 et Avatar.7z.002 dans ce répertoire
+- Pour dézipper l'application [7z](https://www.01net.com/telecharger/windows/Utilitaire/compression_et_decompression/fiches/4035.html) ou tout autre application pouvant dézipper du 7z
+	- Choisissez le fichier Avatar.7z.001 
 
 ## Utilisation
 
