@@ -10,7 +10,7 @@ Version beta stable
 - Téléchargez le projet
 - Créez un répertoire C:\Avatar3.0
 - Copiez les fichiers Avatar.7z.001 et Avatar.7z.002 dans ce répertoire
-- Pour dézipper l'application [7z](https://www.01net.com/telecharger/windows/Utilitaire/compression_et_decompression/fiches/4035.html) ou tout autre application pouvant dézipper du 7z
+- Pour dézipper l'application, utilisez [7z](https://www.01net.com/telecharger/windows/Utilitaire/compression_et_decompression/fiches/4035.html) (ou tout autre application pouvant dézipper du 7z)
 	- Choisissez le fichier Avatar.7z.001 
 
 ## Utilisation
