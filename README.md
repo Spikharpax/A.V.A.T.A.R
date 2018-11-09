@@ -1,10 +1,7 @@
 AVATAR SERVEUR 3.0
 ==================
 
-Avatar Serveur 3.0 beta 4
-
-Version beta stable
-
+Avatar Serveur 3.0 beta 4 (9-11-2018)
 
 ## Installation
 - Téléchargez le projet
