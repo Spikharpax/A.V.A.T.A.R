@@ -50,7 +50,7 @@ Liste de quelques plug-ins disponibles (en constante évolution):
 - Redémarrage à la demande des clients A.V.A.T.A.R (interne A.V.A.T.A.R)
 - Mode Intercom entre les clients A.V.A.T.A.R (interne A.V.A.T.A.R)
 - [Domotique Jeedom](https://github.com/Seb85/Avatar-Plugin-jeedom)
-- [Box domotique eeDomus](https://github.com/Spikharpax/Avatar-Plugin-Android)
+- [Box domotique eeDomus](https://github.com/Spikharpax/Avatar-Plugin-eeDomus)
 - [Box domotique Fibaro](https://github.com/domodom/Avatar-Plugin-fibaro)
 - [Sonos](https://github.com/Spikharpax/Avatar-Plugin-SonosPlayer)
 	- Gestion de Sonos System avec la possibilité d'utiliser les Players comme enceintes Wi-FI pour les clients A.V.A.T.A.R
