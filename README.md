@@ -27,12 +27,13 @@ Il est composé d'un serveur et de clients disposés dans les pièces de votre m
 ***
 ## ★ Installation
 1. Téléchargez le projet
-2. Créez un répertoire `C:\Avatar`
+2. Créez un répertoire `C:\Avatar\Serveur`
 3. Copiez les fichiers `Avatar.7z.001` et `Avatar.7z.002` du téléchargement dans ce répertoire
 4. Dézipper l'application, utilisez [7z](https://www.01net.com/telecharger/windows/Utilitaire/compression_et_decompression/fiches/4035.html) (ou tout autre application pouvant dézipper du 7z)
 	- Choisissez le fichier `Avatar.7z.001`
-5. Vous pouvez supprimer les fichiers `Avatar.7z.001` et `Avatar.7z.002`
-6. Double-cliquez sur le fichier `C:\Avatar3.0\Avatar.exe` pour démarrer le serveur A.V.A.T.A.R
+	- Vérifiez le répertoire proposé (et au besoin supprimez le dernier répertoire du chemin de décompression)
+5. Vous pouvez ensuite supprimer les fichiers `Avatar.7z.001` et `Avatar.7z.002`
+6. Double-cliquez sur le fichier `C:\Avatar\Serveur\Avatar.exe` pour démarrer le serveur A.V.A.T.A.R
 7. Cliquez sur le node _Serveur_ puis choisissez dans le menu contextuel _Aide -> Documentation_
 8. Suivez la documentation et téléchargez un client
 	- [Voir le client Windows](https://github.com/Spikharpax/Avatar-Client)
