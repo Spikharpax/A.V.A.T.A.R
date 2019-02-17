@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+  background: url('../images/Avatar.jpg') no-repeat center fixed;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
