@@ -71,7 +71,6 @@ Liste de quelques plug-ins disponibles (en constante évolution):
 - [Minuteur - Alarme](https://github.com/Spikharpax/Avatar-Plugin-Minuteur)
 - [Marmiton (recettes)](https://github.com/domodom/Avatar-Plugin-Marmiton)
 - [Radio](https://github.com/domodom/Avatar-Plugin-Radio)
-- Liste de courses (disponible sur demande)
 
 D'autres plugins sont mis régulièrement sur ce Github ou sur ceux de la communauté.<br>
 Pour le reste, tout est possible. A vous de jouer pour intégrer tout ce que vous voulez (et n'oubliez pas de partager en devenant contributeurs!)
