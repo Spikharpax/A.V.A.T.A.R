@@ -9,7 +9,9 @@ _noiseLevel_ permet la gestion du mot-clé des clients depuis l'interface du ser
 	
 Ce plug-in nécessite les versions 3.2 du Serveur et 3.5 du client Windows.
 Vous n'avez pas besoin de tout réinstaller, il y a un répertoire _update_ dans les Github associés où vous pouvez récupérer les fichiers de mises à jour.
-<BR><BR>
+<BR>
+Ce serait vraiment sympa si vous preniez 2 minutes pour mettre a "Star" sur A.V.A.T.A.R ! :-D
+<BR>
 Have fun !!
 
 <BR>
