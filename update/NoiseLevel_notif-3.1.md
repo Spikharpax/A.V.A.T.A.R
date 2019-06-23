@@ -7,8 +7,8 @@ _noiseLevel_ permet la gestion du mot-clé des clients depuis l'interface du ser
 * Il affiche la confidence reconnue, les faux positifs, la confidence courante et le niveau de bruit.
 * Vous avez aussi la possibilité de visualiser l'historique des écoutes par un historique graphique.
 	
-Ce plug-in nécessite les versions 3.2 du serveur et 3.5 du client.<BR>
-Vous n'avez pas besoin de tout réinstaller, il y a un un répertoire _update_ dans les Github associés où vous pouvez récupérer les fichiers de mises à jour.
+Ce plug-in nécessite les versions 3.2 du Serveur et 3.5 du client Windows.
+Vous n'avez pas besoin de tout réinstaller, il y a un répertoire _update_ dans les Github associés où vous pouvez récupérer les fichiers de mises à jour.
 <BR><BR>
 Have fun !!
 
