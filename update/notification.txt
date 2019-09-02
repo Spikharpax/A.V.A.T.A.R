@@ -1,1 +1,1 @@
-WebAPIClient_notif-3.2
+WebAPIClient_notif-1.0
