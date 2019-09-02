@@ -242,6 +242,8 @@ function checkUpdate (callback) {
               isNewVersion(repo, callback);
             }
           });
+        } else {
+          isNewVersion(repo, callback);
         }
     });
 

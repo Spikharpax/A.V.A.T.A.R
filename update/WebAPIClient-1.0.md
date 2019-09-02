@@ -14,7 +14,7 @@ Quelques fonctionnalités:
 * Documentation disponible depuis son interface.
 * Le serveur reste compatible avec la précedente version client Windows (vous pouvez avoir les 2).
 
-Ce nouveau client nécessite la version 3.3 du Serveur:
+Ce nouveau client nécessite la nouvelle version 3.3 du Serveur:
 - Pour une mise à jour, vous n'avez pas besoin de tout réinstaller, un répertoire _update/3.3_ est disponible pour récupérer les fichiers de mises à jour.
 <BR>
 
