@@ -3,7 +3,7 @@
 ***
 ## ★ Une nouvelle version client est disponible !
 
-[Client A.V.A.T.A.R Web Speech API](https://https://github.com/Spikharpax/Avatar-WebAPI-Client)
+[Client A.V.A.T.A.R Web Speech API](https://github.com/Spikharpax/Avatar-WebAPI-Client)
 
 Quelques fonctionnalités:
 * Développée en Electron 10 et Nodejs
