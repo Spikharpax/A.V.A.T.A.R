@@ -243,6 +243,7 @@ function checkUpdate (callback) {
             }
           });
         } else {
+          // Update
           isNewVersion(repo, callback);
         }
     });
