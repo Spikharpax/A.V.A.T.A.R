@@ -1,1 +1,1 @@
-WebAPIClient-1.0
+WebAPIClient-3.2
