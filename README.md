@@ -38,8 +38,8 @@ Pour une installation Serveur + Client sur le même PC, un minimum de 4G RAM est
 6. Double-cliquez sur le fichier `C:\Avatar\Serveur\Avatar.exe` pour démarrer le serveur A.V.A.T.A.R
 7. Cliquez sur le node _Serveur_ puis choisissez dans le menu contextuel _Aide -> Documentation_
 8. Suivez la documentation et téléchargez un client:
-	- [Voir le client Windows](https://github.com/Spikharpax/Avatar-Client)
 	- [Voir le client Web API Windows](https://github.com/Spikharpax/Avatar-WebAPI-Client)
+	- [Voir le client Windows](https://github.com/Spikharpax/Avatar-Client)
 	- [Voir le client Android](https://github.com/Spikharpax/Avatar-Plugin-android)
 
 ***
