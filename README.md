@@ -24,6 +24,8 @@ Il est composé d'un serveur et de clients disposés dans les pièces de votre m
 - [X]&nbsp;Microsoft Windows 32/64 (7/8/10)
 - [X]&nbsp;OS Android >= 4.1 Jelly Bean (API 16)
 
+Pour une installation Serveur + Client sur le même PC, un minimum de 4G RAM est requis.
+
 ***
 ## ★ Installation
 1. Téléchargez le projet
@@ -35,8 +37,9 @@ Il est composé d'un serveur et de clients disposés dans les pièces de votre m
 5. Vous pouvez ensuite supprimer les fichiers `Avatar.7z.001` et `Avatar.7z.002`
 6. Double-cliquez sur le fichier `C:\Avatar\Serveur\Avatar.exe` pour démarrer le serveur A.V.A.T.A.R
 7. Cliquez sur le node _Serveur_ puis choisissez dans le menu contextuel _Aide -> Documentation_
-8. Suivez la documentation et téléchargez un client
+8. Suivez la documentation et téléchargez un client:
 	- [Voir le client Windows](https://github.com/Spikharpax/Avatar-Client)
+	- [Voir le client Web API Windows](https://github.com/Spikharpax/Avatar-WebAPI-Client)
 	- [Voir le client Android](https://github.com/Spikharpax/Avatar-Plugin-android)
 
 ***
