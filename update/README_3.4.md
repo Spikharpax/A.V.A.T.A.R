@@ -3,8 +3,6 @@
 ***
 ## ★ Une nouvelle version 3.4 est disponible !
 
-[A.V.A.T.A.R](https://github.com/Spikharpax/A.V.A.T.A.R)
-
 Enfin !! après plusieurs mois, voiçi une nouvelle version du serveur A.V.A.T.A.R !
 
 Cette version corrige principalement une faille de sécurité retournée par GitHub.
