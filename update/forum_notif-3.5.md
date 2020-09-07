@@ -5,6 +5,8 @@
 
 Un nouvel utilisateur très impliqué (et très sympa) s'est donné comme tâche de créer et de gérer un forum pour que nous partagions autour de l'utilisation d'A.V.A.T.A.R.
 
+Forumactif.com: https://avatar-ia.forumactif.com/
+
 Venez-vous inscrire [Forum A.V.A.T.A.R](https://avatar-ia.forumactif.com/) !
 
 
