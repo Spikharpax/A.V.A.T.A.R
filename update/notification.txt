@@ -1,1 +1,1 @@
-forum_notif-3.4
+forum_notif-3.5
