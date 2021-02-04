@@ -39,7 +39,6 @@ Pour une installation Serveur + Client sur le même PC, un minimum de 4G RAM est
 7. Cliquez sur le node _Serveur_ puis choisissez dans le menu contextuel _Aide -> Documentation_
 8. Suivez la documentation et téléchargez un client:
 	- [Voir le client Web API Windows](https://github.com/Spikharpax/Avatar-WebAPI-Client)
-	- [Voir le client Windows](https://github.com/Spikharpax/Avatar-Client)
 	- [Voir le client Android](https://github.com/Spikharpax/Avatar-Plugin-android)
 
 ***
@@ -65,6 +64,7 @@ Liste de quelques plug-ins disponibles (en constante évolution):
 - [La météo pour toutes les grandes villes du monde](https://github.com/Spikharpax/Avatar-Plugin-meteo)
 - [La blague du jour](https://github.com/Spikharpax/Avatar-Plugin-blague)
 - [Traduction](https://github.com/Spikharpax/Avatar-Plugin-translate)
+- [Radios en streaming](https://github.com/Spikharpax/Avatar-Plugin-radio-stream)
 - [Gestion des ampoules RGBW Wifi Mi-Light](https://github.com/Spikharpax/Avatar-Plugin-milight)
 - [Gestion de la box Free Revolution](https://github.com/Spikharpax/Avatar-Plugin-freebox)
 - [Programmes TV par l'EPG de le Freebox Revolution avec rappel vocale et enregistrement de programme](https://github.com/Spikharpax/Avatar-Plugin-freeboxTV)
