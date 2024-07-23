@@ -1,5 +1,5 @@
 ### Deprecated!
-As of today, A.V.A.T.A.R, A.V.A.T.A.R client and all plugins are fully deprecated. No new changes are expected to land. In fact, none have landed for some time and a new version is under develoment.
+As of today, A.V.A.T.A.R, A.V.A.T.A.R client and all plugins are fully deprecated. No new changes are expected to land. In fact, none have landed for some time and a new version is under development.
 
 ### _A.V.A.T.A.R est un assistant vocal basé sur la reconnaissance vocale du langage naturel et la restitution d'informations par synthèse vocale dédié à la conception d'une maison intelligente et à l'internet des objets._
 
